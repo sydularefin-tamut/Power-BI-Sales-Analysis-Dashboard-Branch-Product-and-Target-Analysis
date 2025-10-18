@@ -1,33 +1,33 @@
 # Power BI Sales Analysis Dashboard – Branch, Product, and Target Analysis
 
 ## 📊 Project Overview
-This Power BI project analyzes two weeks of sales data for a pizza company with multiple branches in Nigeria.  
-The aim is to understand sales performance across branches, products, and daily targets.
-
-The dashboard provides descriptive, diagnostic, and predictive insights to help managers evaluate sales efficiency, product performance, and target achievements.
+This Power BI project examines a fortnight of sales data for a pizza enterprise with numerous outlets in Nigeria.
+The objective is to analyze sales performance across branches, products, and daily objectives.
+ 
+The dashboard offers descriptive, diagnostic, and predictive insights to assist managers in assessing sales efficiency, product performance, and target accomplishments.
 
 ---
 
 ## 🧩 Data Model
-The Power BI model connects five key tables:
-- **Sales Data** – Contains branch, date, product, price, quantity, and time of sale.
-- **Branch Data** – Includes branch names, locations, and managers.
-- **Sales Target** – Holds target sales values for each pizza product.
-- **Daily Sales Target** – Lists daily sales targets for each date.
-- **Date Table** – Provides calendar details like day, month, and weekday.
+The Power BI model integrates five principal tables:
+- **Sales Data** – Comprises branch, date, product, price, quantity, and time of sale.
+- **Branch Data** – Comprises branch names, locations, and managers.
+- **Sales Target** – Contains target sales figures for each pizza product.
+- **Daily Sales Target** — Enumerates daily sales objectives for each date.
+- **Date Table** — Supplies calendar information such as day, month, and weekday.
 
-Relationships were built using common keys like *Date*, *Branch*, and *Pizza Sold*.
+Relationships were established with common keys such as *Date*, *Branch*, and *Pizza Sold*.
 
 ---
 
 ## 📈 Dashboard Insights
-The dashboard includes:
-- **Cards** showing total sales, total orders, total quantity, and average order value.
-- **Sales trend** comparing daily sales and daily targets.
-- **Branch performance chart** with contribution % and manager details.
-- **Product analysis** showing variance and achievement %.
-- **Sales by time** visual showing before and after 9am performance.
-- **Interactive slicers** for Year, Month, Branch, and Pizza.
+The dashboard comprises: - **Cards** displaying total sales, total orders, total quantity, and average order value.
+
+ - **Sales trend** juxtaposing daily sales with daily targets.
+ - **Branch performance chart** displaying contribution percentage and manager information.
+ - **Product analysis** indicating variance and achievement percentage.
+ - Visual representation of sales performance before and after 9 AM.
+ - **Interactive slicers** for Year, Month, Branch, and Pizza kind.
 
 ---
 
